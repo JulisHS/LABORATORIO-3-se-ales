@@ -3,8 +3,7 @@ title: "README"
 author: "Sebastian Ochoa, Andrea Valiente, Juliana Hernandez"
 date: "2024-12-09"
 editor options: 
-  markdown: 
-    
+  markdown:  
 ---
 ------------------------------------------------------------------------
 
